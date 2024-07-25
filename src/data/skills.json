@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python-Flask",
+    "imageSrc": "skills/Flask.png"
+  },
+  {
+    "title": "PostGreSql",
+    "imageSrc": "skills/pg.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "SqlAlchemy",
+    "imageSrc": "skills/Sql.jpg"
+  },
+  {
+    "title": "CorelDraw",
+    "imageSrc": "skills/CD.png"
+  }
+]

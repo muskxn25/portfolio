@@ -1,0 +1,36 @@
+[{
+  "role": "Social Media Assistant",
+  "organisation": "TechBible AI",
+  "startDate": "April, 2024",
+  "endDate": "present",
+  "experiences": ["Worked on Social Media Handling", "Designed regular post, videos."],
+  "imageSrc": "history/tech.jpg"
+},
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Stepin Solutions",
+    "startDate": "April, 2023",
+    "endDate": "June 2024",
+    "experiences": ["Salary App automation on GAS", "Working on full stack project"],
+    "imageSrc": "history/stepin.png"
+  },
+  {
+    "role": "Graphic Designer",
+    "organisation": "CreatorShala",
+    "startDate": "Sept, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": ["Worked on Social Media Handling", "Designed regular post, videos."],
+    "imageSrc": "history/Creatorshala.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Groovy Web",
+    "startDate": "May, 2022",
+    "endDate": "July, 2022",
+    "experiences": [
+      "Worked on  WhatsApp Clone",
+      "Helped create UI components and Database"
+    ],
+    "imageSrc": "history/Groovy.jpg"
+  }
+]

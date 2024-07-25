@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Statusi Project",
+    "imageSrc": "projects/project.png",
+    "description": "Contributed to the development of Statusi, a software based on Ongage, designed for data visualization, ETL processes, and graphical representation of data. Developed the Reports Page, implemented robust authentication tools, enabled interactive data visualization, and assisted in ETL processes.",
+    "skills": ["Data Visualization", "ETL", "Security"]
+  },
+  {
+    "title": "Ongage Search Tool",
+    "imageSrc": "projects/project.png",
+    "description": "Enhanced the Ongage search tool with advanced search capabilities. Redeveloped the user interface using React.js, improved the user experience, and implemented significant UI enhancements for a more intuitive interface.",
+    "skills": ["React.js", "Frontend Development", "UI Design"]
+  },
+  {
+    "title": "Salary Automation Tool",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an automated salary system using Google Apps Script, integrated with Google Workspace. Designed and implemented a fully automated payroll system for salary calculations, disbursements, and record-keeping.",
+    "skills": ["Google Apps Script", "Automation", "Payroll Systems"]
+  },
+  {
+    "title": "Movie Recommendation System",
+    "imageSrc": "projects/project.png",
+    "description": "Created a personalized movie recommendation system using machine learning in Python. Utilized advanced machine learning algorithms to analyze user preferences and provide tailored film suggestions.",
+    "skills": ["Python", "Machine Learning", "Data Analysis"]
+  },
+  {
+    "title": "Harvestify | Farming Web",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an ML-powered farming application designed to provide crop advice and optimize yield. Implemented machine learning algorithms for accurate crop advice, designed a user-friendly interface, and integrated advanced data analytics and visualization tools for enhanced decision support.",
+    "skills": ["Machine Learning", "Data Analytics", "UI Design"]
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an expense tracker application to help users manage and monitor their financial transactions. Designed and implemented a full-stack solution with an intuitive interface, budget tracking, and seamless interaction between frontend and backend components.",
+    "skills": ["Full Stack Development", "UI Design", "Budget Tracking"]
+  },
+  {
+    "title": "WhatsApp Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a WhatsApp clone application using the MERN stack, replicating core functionalities of the popular messaging platform. Implemented real-time messaging with WebSockets, robust authentication mechanisms, and an intuitive user interface for a seamless chat experience.",
+    "skills": ["MERN Stack", "WebSockets", "Authentication", "UI Design"]
+  }
+]
